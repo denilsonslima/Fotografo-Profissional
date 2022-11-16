@@ -24,6 +24,7 @@ nav {
     flex-direction: column;
     align-items: center;
     background-color: #191970;
+    padding-top: 15px;
 }
 
 nav > a {
@@ -160,6 +161,7 @@ footer a {
     nav {
         flex-direction: row;
         justify-content: space-around;
+        padding-top: 0;
     }
 
     nav ul {
