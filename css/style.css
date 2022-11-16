@@ -75,6 +75,7 @@ header h1 {
 
 header p {
     margin-bottom: 2em;
+    max-width: 900px;
 }
 
 #sobre {
@@ -93,7 +94,7 @@ header p {
 
 #sobre p {
     margin-bottom: 2em;
-    max-width: 1000px;
+    max-width: 900px;
 }
 
 #sobre .botao {
